@@ -1,3 +1,8 @@
-const useerName = "John Doe";
+const http = require("http");
 
-console.log(`Hello, ${useerName}!`); // node app.js
+const server = http.createServer();
+
+server.listen(3000);
+
+// amazon.com
+// amazon.com:80
