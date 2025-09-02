@@ -1,0 +1,20 @@
+{
+  "name": "day-47-introduction-to-nodejs",
+  "version": "1.0.0",
+  "description": "Getting started with Node and Express",
+  "homepage": "https://github.com/saodat-riskiyeva/day-47-introduction-to-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/saodat-riskiyeva/day-47-introduction-to-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saodat-riskiyeva/day-47-introduction-to-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Saodat Riskiyeva",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
